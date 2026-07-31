@@ -5,8 +5,8 @@
 %global crate unindent
 
 Name:           rust-%{crate}
-Version:        0.1.5
-Release:        2%{?dist}
+Version:        0.2.4
+Release:        1%{?dist}
 Summary:        Remove a column of leading whitespace from a string
 
 # Upstream license specification: MIT OR Apache-2.0
